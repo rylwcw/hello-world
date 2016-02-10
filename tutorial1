@@ -1,12 +1,22 @@
 <!DOCTYPE HTML>
 
 <html>
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <head>
   <meta charset=”utf-8”> 
   <title>Complete by MARCH</title>
 
 <style>
+
+
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:110%;
+    width:100%;
+    /*float:top;*/
+    padding:5px; 
+}
 
 div.btn {
   -moz-box-shadow:inset 0px 1px 35px 0px #f29c93;
@@ -51,11 +61,14 @@ div.btn {
   position:relative;
   top:1px;
 }
+
+
 div.header_top{
 	width: 100%;
-	height:30%;
+	height:110%;
 	background-color: #F88017;
 	border: 5% solid white;
+	text-indent:50px
 
 }
 div.background
@@ -99,8 +112,12 @@ div.transbox p
 <div align="left">
 <div class="header_top">
 
-<h1 style="color:#FFFFFF;font-family:verdana;"> SAMPLE.COM</h1>
+<h1 style="color:#FFFFFF; padding: 50px 20px 20px 50px;">SAMPLE.COM</h1>
+<p style="color:#FFFFFF;"> This is not easy for me. </p>
 
+<div id="nav">
+Home	About Us 	Our Services 	Contact
+</div>
 </body>
 
 </html> 
