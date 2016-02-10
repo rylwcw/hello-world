@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+  <meta charset=”utf-8”> 
+  <title>Complete by MARCH</title>
+
+<style>
+
+div.btn {
+  -moz-box-shadow:inset 0px 1px 35px 0px #f29c93;
+  -webkit-box-shadow:inset 0px 1px 35px 0px #f29c93;
+  box-shadow:inset 0px 1px 35px 0px #f29c93;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #b01d0c), color-stop(1, #9c0b0b) );
+  background:-moz-linear-gradient( center top, #b01d0c 5%, #9c0b0b 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b01d0c', endColorstr='#9c0b0b');
+  background-color:#b01d0c;
+  -webkit-border-top-left-radius:15px;
+  -moz-border-radius-topleft:15px;
+  border-top-left-radius:15px;
+  -webkit-border-top-right-radius:15px;
+  -moz-border-radius-topright:15px;
+  border-top-right-radius:15px;
+  -webkit-border-bottom-right-radius:15px;
+  -moz-border-radius-bottomright:15px;
+  border-bottom-right-radius:15px;
+  -webkit-border-bottom-left-radius:15px;
+  -moz-border-radius-bottomleft:15px;
+  border-bottom-left-radius:15px;
+  text-indent:0px;
+  border:1px solid #d83526;
+  display:inline-block;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:20px;
+  font-weight:normal;
+  font-style:normal;
+  height:49px;
+  line-height:49px;
+  width:139px;
+  text-decoration:none;
+  text-align:center;
+}
+.btn:hover {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #9c0b0b), color-stop(1, #b01d0c) );
+  background:-moz-linear-gradient( center top, #9c0b0b 5%, #b01d0c 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#9c0b0b', endColorstr='#b01d0c');
+  background-color:#9c0b0b;
+}.btn:active {
+  position:relative;
+  top:1px;
+}
+div.header_top{
+	width: 100%;
+	height:30%;
+	background-color: #F88017;
+	border: 5% solid white;
+
+}
+div.background
+  {
+  width:100%;
+  height:100%;/*
+  width:600px;
+  height:334px;*/
+  background:url(captiveportal-background_2.jpg) ;
+  background-size:cover;
+  background-repeat: no-repeat;
+  border:1px solid black;
+  color:  #000000;
+  }
+div.transbox
+  {
+  
+  width:60%;
+  height:40%;
+  /*width:400;
+  height:200;*/
+  margin:10px 60px 30px;
+  background-color:#ffffff;
+  border:01px solid black;
+  opacity:0.7;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+  }
+div.transbox p
+  {
+    margin:30px 30px;
+  font-weight:bold;
+  color:#000000;
+  }
+</style>
+</head>
+
+
+
+<body bgcolor="#FFFFFF">
+
+<div align="left">
+<div class="header_top">
+
+<h1 style="color:#FFFFFF;font-family:verdana;"> SAMPLE.COM</h1>
+
+</body>
+
+</html> 
